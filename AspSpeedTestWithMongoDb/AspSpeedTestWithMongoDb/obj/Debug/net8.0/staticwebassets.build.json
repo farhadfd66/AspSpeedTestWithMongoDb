@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CuD7lnG8OkUeGrI754gW42QNvBZ619Yu5GTiGjndl+U=",
+  "Source": "AspSpeedTestWithMongoDb",
+  "BasePath": "_content/AspSpeedTestWithMongoDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
